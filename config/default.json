@@ -1,0 +1,5 @@
+{
+	"port": 1337,
+	"couchdb_url": "http://localhost:5984",
+	"db": "canada2014"
+}
